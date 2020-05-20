@@ -8,7 +8,7 @@
 -Bootstrap
 _firebase
 
-##Features
+## Features
 - login and sign up
 - cart feature
 - more coming soon
