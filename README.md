@@ -1,4 +1,4 @@
-# savdhan_web_app
+# savdhan_store
 ## Online essential E-commerce Platform
 ### Built and Designed Using
 - HTML
