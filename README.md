@@ -4,9 +4,9 @@
 - HTML
 - CSS
 - JS
--jQuery
--Bootstrap
-_firebase
+- jQuery
+- Bootstrap
+- _firebase
 
 ## Features
 - login and sign up
