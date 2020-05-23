@@ -6,7 +6,7 @@
 - JS
 - jQuery
 - Bootstrap
-- _firebase
+- firebase
 
 ## Features
 - login and sign up
