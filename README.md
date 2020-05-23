@@ -16,6 +16,6 @@
 ### Usage
 - Clone the repo and run index.html or [Savdhaan Store](http://www.divyansh.live/savdhan_web_app/)
 
-#### [Divyansh](https://www.divyansh.live)[ Kumar](https://github.com/jordandivyansh)
+#### [Divyansh](https://www.divyansh.live) [Kumar](https://github.com/jordandivyansh)
 #### [Ankit Kumar](https://github.com/theanandankit)
 
